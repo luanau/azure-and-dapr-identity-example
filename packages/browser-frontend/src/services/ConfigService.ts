@@ -9,9 +9,9 @@ export interface AuthConfig {
 
 export function fetchAuthConfig(): Promise<AuthConfig> {
   return Promise.resolve({
-    clientId: "f7edc002-e261-42e5-9140-8dde2e83260c",
+    clientId: "eb2492f3-869f-4ec3-bf88-21795c82f6b6",
     authority:
-      "https://login.microsoftonline.com/fa1ee923-839f-4da5-a453-6eefaf3c9699/",
+      "https://login.microsoftonline.com/d16fd310-d910-4a1f-a5c0-af83a9ad6848/",
   });
   // return fetch("/api/config/auth").then(response => {
   //   if (!response.ok) {
