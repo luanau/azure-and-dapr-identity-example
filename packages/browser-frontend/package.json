@@ -19,7 +19,8 @@
     "web-vitals": "^0.2.4"
   },
   "devDependencies": {
-    "@types/react-router-dom": "^5.1.7"
+    "@types/react-router-dom": "^5.1.7",
+    "react-refresh": "^0.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
